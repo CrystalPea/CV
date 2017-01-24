@@ -3,10 +3,11 @@
 
 ## Pea M. Tyczynska
 
-I'm a maker of art, and a web developer in the making. But mostly, I am a person, molded by a complex mix of circumstances, genetics, exposures and choices. I should write here how special and awesome I am, but isn't all life awesome and special and absolutely unique?
-Ok, you probably have hundreds of CVs to plow through today, so lets set the philosophy aside for now and concentrate on what you need to know about me.
+I'm a maker of art, and a software developer in the making. But mostly, I am a person, molded by a complex mix of circumstances, genetics, exposures and choices. I should write here how special and awesome I am, but isn't all life awesome and special and absolutely unique?  
 
-I am a graduate of English Studies with experience in, among others, translations, project coordination and general administration. I have spent last year developing myself as a visual artist, organising a succesful solo exhibition (Botanical Dimensions), and publishing a comic anthology with Dalston Comics Collective. Along the way I discovered coding and it became my new passion. Currently I am attending Makers Academy web development course. My goal is to get a job as a developer in a socially responsible company, to write lots of beautiful and functional code, and to keep learning and challenging myself.
+Still, there is this thing about me that you might find interesting. Namely: I absolutely love coding! And not about any coding. What really tickles me the right way is writing the best software I can, to plan, to design, to solve problems, to constantly refactor and learn how to write better, more beautiful,clear and extendable code. I love to code in a pair, and I love coding alone, too. I love debugging and getting stuck, because problem solving is my second nature. The way that writing software unites creative thinking and logical thinking and feedback loops and teamwork makes it my dream come true and a new purpose.
+
+Now for a bit of personal history: I am a graduate of English Studies with experience in, among others, translations, project coordination and general administration. I have spent last year developing myself as a visual artist, organising a succesful solo exhibition (Botanical Dimensions), and publishing a comic anthology with Dalston Comics Collective. Along the way I discovered code and it became my new passion. Currently I am attending Makers Academy web development course. My goal is to get a job as a developer in a socially responsible company, to write lots of beautiful and functional code, and to keep learning and challenging myself.
    
    
 ## Skills
