@@ -1,4 +1,4 @@
-[Skills](#skills) | [Projects](#projects) |[Education](#education) |  [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@magosiapeatyczyska)
+[Skills](#skills) | [Projects](#projects) |[Education](#education) |  [Experience](#experience) | [Interests](#interests)
 
 
 ## Pea M. Tyczynska
@@ -11,6 +11,27 @@ Now for a bit of personal history: I am a graduate of English Studies with exper
    
    
 ## Skills
+
+#### Software Development
+
+I discovered software development in Summer 2016 and since then I've been breathing and eating code. I started by learning Ruby. Soon after, I have been admitted to Makers Academy, a super intense and amazing practical software development course. At Makers, we learn by building fully working apps, so I'm confident in applying my skills in practical and independent manner.  
+
+Languages I have worked in:  
+- Ruby  
+- JavaScript / Node.js  
+- Swift  
+
+Frameworks I have used:
+- Rails  
+- Sinatra  
+- Express.js  
+
+Principles that guide me:
+- TDD 
+- SOLID  
+- DRY  
+- Agile  
+
 
 #### Graphic Design and Illustration
 
