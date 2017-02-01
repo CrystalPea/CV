@@ -34,8 +34,12 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
    
 ## Projects
 
-**[Student Directory](https://github.com/CrystalPea/student-directory)** - an app for inputing, loading, saving, showing and filtering student lists. Language: Ruby.
-    
+#### All my apps were developed using TDD approach.
+
+**[Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist)** - a Ruby Sinatra web app. It lets users build playlists together. Functionalities: Users, Requests, Playlist and Track adding.
+**[Instagram Challenge](https://github.com/CrystalPea/instagram-challenge)** - a Rails web app which based on the idea of Instagram. It lets users sign up, post photos, leave comments and like/unlike photos.  
+**[Bowling Challenge](https://github.com/CrystalPea/bowling-challenge)** - business logic for a 10 frame bowling game which I have done in Javascript.
+
    
 ## Education
 
@@ -73,7 +77,7 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
   
 ## Interests
 
-**Coding** - it's a skill I'm developing right now and a future professional pursuit, but it's also something I'm growing more passionate about with each passing day.   
+**Coding** - obviously :) 
 **Comics and Illustration** - [my portfolio](http://peaspod.co.uk).   
 **Hula Hoop dance** - hoop is love, hoop is life :) [my fanpage](https://www.facebook.com/hoopingpea/?fref=ts)    
 **Scientific approach to learning about the world** - I love to learn and I apply popperism and critical thinking in everyday life. I check sources and methodology for new information, greatly appreciate non-fiction books (I'm happy to recommend some well-researched, mind-blowing books regarding Anthropology, Social Sciences, Cognitive Science, Theory of Knowledge or Historiography)    
