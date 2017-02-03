@@ -98,7 +98,7 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
   
 ## Interests
 
-**Coding** - obviously :) 
+**Coding** - obviously :)  
 **Comics and Illustration** - [my portfolio](http://peaspod.co.uk).   
 **Hula Hoop dance** - hoop is love, hoop is life :) [my fanpage](https://www.facebook.com/hoopingpea/?fref=ts)    
 **Scientific approach to learning about the world** - I love to learn and I apply popperism and critical thinking in everyday life. I check sources and methodology for new information, greatly appreciate non-fiction books (I'm happy to recommend some well-researched, mind-blowing books regarding Anthropology, Social Sciences, Cognitive Science, Theory of Knowledge or Historiography)    
