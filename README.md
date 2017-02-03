@@ -3,9 +3,9 @@
 
 ## Pea M. Tyczynska
 
-I'm a maker of art, and a software developer in the making. But mostly, I am a person, molded by a complex mix of circumstances, genetics, exposures and choices. I should write here how special and awesome I am, but isn't all life awesome and special and absolutely unique?  
+I'm a freshly baked full-stack junior developer. Language I know best is Ruby, and I also know Javascript and Swift, but I'm eager to explore and learn other technologies. Please check my projects section to see some of the apps I've built.
 
-Still, there is this thing about me that you might find interesting. Namely: I absolutely love coding! And not about any coding. What really tickles me the right way is writing the best software I can, to plan, to design, to solve problems, to constantly refactor and learn how to write better, more beautiful,clear and extendable code. I love to code in a pair, and I love coding alone, too. I love debugging and getting stuck, because problem solving is my second nature. The way that writing software unites creative thinking and logical thinking and feedback loops and teamwork makes it my dream come true and a new purpose.
+I think you should know: I absolutely love coding! And not about any coding. What really tickles me the right way is writing the best software I can, to plan, to design, to solve problems, to constantly refactor and learn how to write better, more beautiful,clear and extendable code. I love to code in a pair, and I love coding alone, too. I love debugging and getting stuck, because problem solving is my second nature. The way that writing software unites creative thinking and logical thinking and feedback loops and teamwork makes it my dream come true and a new purpose.
 
 Now for a bit of personal history: I am a graduate of English Studies with experience in, among others, translations, project coordination and general administration. I have spent last year developing myself as a visual artist, organising a succesful solo exhibition (Botanical Dimensions), and publishing a comic anthology with Dalston Comics Collective. Along the way I discovered code and it became my new passion. Currently I am attending Makers Academy web development course. My goal is to get a job as a developer in a socially responsible company, to write lots of beautiful and functional code, and to keep learning and challenging myself.
    
@@ -42,7 +42,7 @@ Below please find a few recent highlights from my life as a visual artist:
 - created a number of designs for [Luna Skoom - Watford-based artist collective](https://www.facebook.com/pg/lunaskoom/photos/?tab=album&album_id=1101970643170243)
 - Published [a short comics anthology](https://twitter.com/hackneylibs/status/751832705130754050) with [Dalston Comic Club](https://www.facebook.com/DalstonComicCreatorsClub/)
 - Organised a succesful solo exhibition - [Botanical Dimensions](https://www.facebook.com/peaczek/media_set?set=a.1391655107526770.100000468810248&type=3)
-- Please feel free to browse my online portfolio at [Pea's Pod](http://peaspod.co.uk)
+- Please feel free to browse my online portfolio at [Pea's Pod](http://crystalpea.tumblr.com)
 
 #### Project Coordination
 
@@ -55,11 +55,10 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
    
 ## Projects
 
-#### All my apps were developed using TDD approach.
-
-**[Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist)** - a Ruby Sinatra web app. It lets users build playlists together. Functionalities: Users, Requests, Playlist and Track adding.
-**[Instagram Challenge](https://github.com/CrystalPea/instagram-challenge)** - a Rails web app which based on the idea of Instagram. It lets users sign up, post photos, leave comments and like/unlike photos.  
-**[Bowling Challenge](https://github.com/CrystalPea/bowling-challenge)** - business logic for a 10 frame bowling game which I have done in Javascript.
+**[Guide Me](https://github.com/aabolade/GuideMe)** - a Swift app that guides the user around an underground station using bluetooth beacons. Our app was built with blind and visually impaired people in mind. We used frameworks for iBeacon detection and for text to speech functionality. Guide me team comprised of 5 people, all Makers Academy students.
+**[Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist)** - a Ruby Sinatra web app. It lets users build playlists together. Functionalities: Users, Requests, Playlist and Track adding. App was developed using TDD.
+**[Instagram Challenge](https://github.com/CrystalPea/instagram-challenge)** - a Rails web app which based on the idea of Instagram. It lets users sign up, post photos, leave comments and like/unlike photos. App was developed using TDD.
+**[Bowling Challenge](https://github.com/CrystalPea/bowling-challenge)** - business logic for a 10 frame bowling game which I have done in Javascript. App was developed using TDD.
 
    
 ## Education
@@ -68,10 +67,11 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Knowledge of concepts such as OOP, TDD, SOLID, MVC and DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Environment: Terminal, Git, Github  
+- Languages and frameworks: Ruby, Rails, Sinatra, Javascript, Node.js, Swift  
+- Testing: Rspec, Jasmine, Mocha
 
 #### Nicolas Copernicus University in Torun, Poland (2009-2011)
 
@@ -98,9 +98,9 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
   
 ## Interests
 
-**Coding** - obviously :)  
-**Comics and Illustration** - [my portfolio](http://peaspod.co.uk).   
-**Hula Hoop dance** - hoop is love, hoop is life :) [my fanpage](https://www.facebook.com/hoopingpea/?fref=ts)    
+**Coding** - not only career choice but also a passion, I regularly attend technology-related meetups and work on personal projects, like [Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist).  
+**Comics and Illustration** - [my portfolio](http://crystalpea.tumblr.com).   
+**Hula Hoop dance** - hoops are love, hoops are life :) [my fanpage](https://www.facebook.com/hoopingpea/?fref=ts)    
 **Scientific approach to learning about the world** - I love to learn and I apply popperism and critical thinking in everyday life. I check sources and methodology for new information, greatly appreciate non-fiction books (I'm happy to recommend some well-researched, mind-blowing books regarding Anthropology, Social Sciences, Cognitive Science, Theory of Knowledge or Historiography)    
 **Books** - “A reader lives a thousand lives before he dies [...]. The man who never reads lives only one.” ― George R.R. Martin, A Dance with Dragons   
 **Bicycle** - I commute on bike whenever I can and embark on frequent cycling trips around London.   
