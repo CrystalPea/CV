@@ -3,11 +3,13 @@
 
 ## Pea M. Tyczynska
 
-I'm a freshly baked full-stack junior developer. Language I know best is Ruby, and I also know Javascript and Swift, but I'm eager to explore and learn other technologies. Please check my projects section to see some of the apps I've built.
+I'm a freshly baked full-stack junior web developer. I'm eager to explore and learn new technologies. So far I have been building applications in Ruby, Rails, Javascript, Node.js and Swift. Please check my projects section to see some of the apps I've built.  
 
-I think you should know: I absolutely love coding! And not about any coding. What really tickles me the right way is writing the best software I can, to plan, to design, to solve problems, to constantly refactor and learn how to write better, more beautiful,clear and extendable code. I love to code in a pair, and I love coding alone, too. I love debugging and getting stuck, because problem solving is my second nature. The way that writing software unites creative thinking and logical thinking and feedback loops and teamwork makes it my dream come true and a new purpose.
+I think you'd like to know: I absolutely love coding! And not about any coding. What really tickles me the right way is writing the best software I can, to plan, to design, to solve problems, to constantly refactor and learn how to write better, more beautiful,clear and extendable code. I love to code in a pair, and I love coding alone, too. I love debugging and getting stuck, because problem solving is my second nature. My goal is to write lots of beautiful and functional code, and to keep learning and challenging myself.  
 
-Now for a bit of personal history: I am a graduate of English Studies with experience in, among others, translations, project coordination and general administration. I have spent last year developing myself as a visual artist, organising a succesful solo exhibition (Botanical Dimensions), and publishing a comic anthology with Dalston Comics Collective. Along the way I discovered code and it became my new passion. Currently I am attending Makers Academy web development course. My goal is to get a job as a developer in a socially responsible company, to write lots of beautiful and functional code, and to keep learning and challenging myself.
+Before I discovered code I engaged in a variety of activities and gained lots of valuable experience. I developed strong communication skills by working in office environment where I liaised with internal and external shareholders everyday.  
+
+As a visual artist I honed my creative thinking and design skills and understood my goals better. It also made me understand that I feel much better when working alongside other people than working alone. Publishing a comic anthology with Dalston Comics Collective and organising a succesful solo exhibition ([Botanical Dimensions](https://www.facebook.com/peaczek/media_set?set=a.1391655107526770.100000468810248&type=3)) were both collective efforts and at the same time highlights of my year.
    
    
 ## Skills
