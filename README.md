@@ -57,10 +57,10 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
    
 ## Projects
 
-**[Guide Me](https://github.com/aabolade/GuideMe)** - a Swift app that guides the user around an underground station using bluetooth beacons. Our app was built with blind and visually impaired people in mind. We used frameworks for iBeacon detection and for text to speech functionality. Guide me team comprised of 5 people, all Makers Academy students. My team mates on the project praised me for **"frequent strokes of genius"**. [A demo for the project](https://www.youtube.com/watch?v=wIF0KgibgrQ)
-**[Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist)** - a Ruby Sinatra web app. It lets users build playlists together. Functionalities: Users, Requests, Playlist and Track adding. App was developed using TDD.
-**[Instagram Challenge](https://github.com/CrystalPea/instagram-challenge)** - a Rails web app which based on the idea of Instagram. It lets users sign up, post photos, leave comments and like/unlike photos. App was developed using TDD.
-**[Bowling Challenge](https://github.com/CrystalPea/bowling-challenge)** - business logic for a 10 frame bowling game which I have done in Javascript. App was developed using TDD.
+**[Guide Me](https://github.com/aabolade/GuideMe)** - a Swift app that guides the user around an underground station using bluetooth beacons. Our app was built with blind and visually impaired people in mind. We used frameworks for iBeacon detection and for text to speech functionality. Guide me team comprised of 5 people, all Makers Academy students. My team mates on the project praised me for **"frequent strokes of genius"**. [A demo for the project](https://www.youtube.com/watch?v=wIF0KgibgrQ)  
+**[Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist)** - a Ruby Sinatra web app. It lets users build playlists together. Functionalities: Users, Requests, Playlist and Track adding. App was developed using TDD.  
+**[Instagram Challenge](https://github.com/CrystalPea/instagram-challenge)** - a Rails web app which based on the idea of Instagram. It lets users sign up, post photos, leave comments and like/unlike photos. App was developed using TDD.  
+**[Bowling Challenge](https://github.com/CrystalPea/bowling-challenge)** - business logic for a 10 frame bowling game which I have done in Javascript. App was developed using TDD.  
 
    
 ## Education
