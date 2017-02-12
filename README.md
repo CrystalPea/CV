@@ -1,4 +1,4 @@
-[Skills](#skills) | [Projects](#projects) |[Education](#education) |  [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) |[Education](#education) |  [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@magosiapeatyczyska)
 
 
 ## Pea M. Tyczynska
