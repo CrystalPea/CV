@@ -63,6 +63,8 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
 
 **[Instagram Challenge](https://github.com/CrystalPea/instagram-challenge)** - a Rails web app which based on the idea of Instagram. It lets users sign up, post photos, leave comments and like/unlike photos. App was developed using TDD.  
 
+**[Bank Challenge](https://github.com/CrystalPea/bank_ruby)** - busness logic for a bank account written in Ruby. I included this code because it makes me proud how much progress I made in just a couple of months. In November it took me a week to write a similar app. This one took me just over one day, is developed using TDD approach and adheres to widely appreciated design principles, like SOLID and DRY.
+
 **[Bowling Challenge](https://github.com/CrystalPea/bowling-challenge)** - business logic for a 10 frame bowling game which I have done in Javascript. App was developed using TDD.  
 
    
