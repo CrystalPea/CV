@@ -103,7 +103,7 @@ My experience as a Lead Project Coordinator has taught me how to coordinate proj
   
 ## Interests
 
-**Coding** - not only career choice but also a passion, I regularly attend technology-related meetups and work on personal projects, like [Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist).  
+**Coding** - not only career choice but also a passion, I regularly attend technology-related meetups and conferences (Tech for Good, Queer Code, There is no such thing as neutral technology, Ruby User Group) and work on personal projects, like [Collective Playlist](https://github.com/CrystalPea/CollectivePlaylist).  
 **Comics and Illustration** - [my portfolio](http://crystalpea.tumblr.com).   
 **Hula Hoop dance** - hoops are love, hoops are life :) [my fanpage](https://www.facebook.com/hoopingpea/?fref=ts)    
 **Scientific approach to learning about the world** - I love to learn and I apply popperism and critical thinking in everyday life. I check sources and methodology for new information, greatly appreciate non-fiction books (I'm happy to recommend some well-researched, mind-blowing books regarding Anthropology, Social Sciences, Cognitive Science, Theory of Knowledge or Historiography)    
