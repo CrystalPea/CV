@@ -3,7 +3,7 @@
 
 ## Pea M. Tyczynska
 
-I'm a Junior Technologist at Government Digital Service (GDS). I have been working here for a year now, all of this time on Digital Marketplace, which is a digital procurement service. Throughout this year I've been learning a lot and I progressed both with my coding and teamwork skills. I also did my best to share the knowledge I have with others, for example through our programme's show and tells, through talks and a ([blog post](https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/)) on pairing, and through daily mindfulness practice I organise at work.  
+I'm a Junior Technologist at Government Digital Service (GDS). I have been working here for a year now, all of this time on Digital Marketplace, which is a digital procurement service. Throughout this year I've been learning a lot and I progressed both with my coding and teamwork skills. I also did my best to share the knowledge I have with others, for example through our programme's show and tells, through talks and a [blog post](https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/) on pairing, and through daily mindfulness practice I organise at work.  
 
 I think you'd like to know: I absolutely love coding! And not about any coding. What really tickles me the right way is writing the best software I can, to plan, to design, to solve problems, to constantly refactor and learn how to write better, more beautiful,clear and extendable code. I love to code in a pair, and I love coding alone, too. I love debugging and getting stuck, because problem solving is my second nature. My goal is to write lots of beautiful and functional code, and to keep learning and challenging myself.  
 
